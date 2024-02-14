@@ -18,5 +18,8 @@
     <ClCompile Include="KAW_MWdevB.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="CreateProcess.c">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
